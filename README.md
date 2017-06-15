@@ -1,7 +1,4 @@
-# Sup, I'm Juanmi
+# Sup, I'm Juanmi --> **http://juanmi.rocks**
 
-I'm a data scientist, deeply care about connecting people, and live my own way
 
-Happy to help you:
-
-## **http://juanmi.rocks**
+![juanmirocks profile photo](https://twitter.com/juanmirocks/profile_image?size=original)
