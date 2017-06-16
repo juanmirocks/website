@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Sup, I'm Juanmi.
 
 I'm a data scientist by profession, all text mining things, #nlp, #nlu
