@@ -735,6 +735,7 @@ button:disabled,
   margin: 0 auto;
   border-radius: 100%;
   box-shadow: 0 0 0 1.5em #ffffff;
+  max-width: 300px;
 }
 
 #main .avatar:before {
@@ -755,6 +756,10 @@ button:disabled,
     min-width: 0;
     width: 100%;
     padding: 4em 2em 2.5em 2em ;
+  }
+
+  #main .avatar img {
+    max-width: 230px;
   }
 
   #main .avatar:before {
