@@ -2,7 +2,7 @@ Sup, I'm Juanmi.
 
 I'm a data scientist by profession, all text mining things, #nlp, #nlu
 
-I'm currently working at [tagtog](https://www.tagtog.net) and I'm also happy to help you with [short-term consultant projects](mailto:consult@juanmi.rocks) 📧
+I'm currently working on [tagtog](https://www.tagtog.net). I'm also happy to help you with [short-term projects](mailto:consult@juanmi.rocks) 📧
 
 Here you find the business side of me:
 
