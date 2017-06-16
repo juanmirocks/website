@@ -195,7 +195,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-  font-size: 2.85em;
+  font-size: 2.35em;
   font-weight: bold;
   margin: 0 0 0.525em 0;
 }
@@ -703,7 +703,7 @@ button:disabled,
   position: relative;
   max-width: 100%;
   min-width: 27em;
-  padding: 4.5em 3em 3em 3em ;
+  padding: 2.5em 3em 1.5em 3em ;
   background: #ffffff;
   border-radius: 4px;
   cursor: default;
@@ -734,7 +734,7 @@ button:disabled,
   margin: 0 auto;
   border-radius: 100%;
   box-shadow: 0 0 0 1.5em #ffffff;
-  max-width: 300px;
+  max-width: 250px;
 }
 
 #main .avatar:before {
@@ -758,7 +758,7 @@ button:disabled,
   }
 
   #main .avatar img {
-    max-width: 230px;
+    max-width: 180px;
   }
 
   #main .avatar:before {

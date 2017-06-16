@@ -27,8 +27,6 @@ class App extends Component {
               About.me */}
             </ul>
 
-            <br/>
-
             <p>I live my own way. My passion is in connecting people and ideas, to foster peace, collaboration, and friendship. Here you find the unfiltered side of me:</p>
             <ul className="icons">
               <li><a href="https://www.instagram.com/juanmirocks" className="fa-instagram">Instagram</a></li>
