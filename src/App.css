@@ -758,7 +758,7 @@ button:disabled,
   }
 
   #main .avatar img {
-    max-width: 180px;
+    max-width: 150px;
   }
 
   #main .avatar:before {
