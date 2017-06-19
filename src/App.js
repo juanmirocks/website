@@ -29,7 +29,7 @@ class App extends Component {
               About.me */}
             </ul>
 
-            <p>I live my own way. My passion is in connecting people and ideas, to foster peace, collaboration, and friendship. Here you find the unfiltered side of me:</p>
+            <p>I live my own way. My passion is in connecting people and ideas &mdash; to foster peace, collaboration, and friendship. Here you find the unfiltered side of me:</p>
             <ul className="icons">
               <li><a href="https://www.instagram.com/juanmirocks" className="fa-instagram">Instagram</a></li>
               <li><a href="https://twitter.com/juanmirocks" className="fa-twitter">Twitter</a></li>
