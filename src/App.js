@@ -17,7 +17,7 @@ class App extends Component {
 
             <ul className="icons">
               <li><a href="https://github.com/juanmirocks" className="fa-github">GitHub</a></li>
-              <li><a href="https://stackoverflow.com/users/341320/juanmirocks" className="fa-stack-overflow">StackOverflow</a></li>
+              <li><a href="https://stackoverflow.com/users/story/341320" className="fa-stack-overflow">StackOverflow</a></li>
               <li><a href="https://www.linkedin.com/in/juanmirocks" className="fa-linkedin">LinkedIn</a></li>
               <li><a href="mailto:consult@juanmi.rocks" className="fa-envelope-o">E-Mail</a></li>
               {/* ResearchGate
