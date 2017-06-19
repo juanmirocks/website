@@ -46,7 +46,7 @@ class App extends Component {
 
         <footer id="footer">
           <ul className="copyright">
-            <li>&copy; Juan Miguel Cejuela, aka, <em>@juanmirocks</em></li>
+            <li><span className="copyleft"/> Juan Miguel Cejuela, aka, <em>@juanmirocks</em></li>
           </ul>
         </footer>
 
