@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import profile from "./images/profile.jpg";
 
 class App extends Component {
   render() {
@@ -8,7 +9,8 @@ class App extends Component {
 
         <section id="main">
           <header>
-            <span className="avatar"><img src="https://twitter.com/juanmirocks/profile_image?size=original" alt="juanmirocks profile" /></span>
+            {/* Alternative src: "https://twitter.com/juanmirocks/profile_image?size=original" */}
+            <span className="avatar"><img src={profile} alt="juanmirocks profile" /></span>
             <h1>Sup, I'm Juanmi</h1>
 
             <p>I'm a data scientist by profession, all text mining things, <a href="https://en.wikipedia.org/wiki/Natural_language_processing">#nlp</a>, <a href="https://en.wikipedia.org/wiki/Natural_language_understanding">#nlu</a>. I'm currently working on <a href="https://www.tagtog.net">tagtog</a>. I'm also happy to help you with <a href="mailto:consult@juanmi.rocks">short-term consultant projects</a>. Let's connect:</p>
