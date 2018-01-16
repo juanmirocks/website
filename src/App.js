@@ -16,14 +16,15 @@ class App extends Component {
             <p>I'm a data scientist by profession, all text mining things, <a href="https://en.wikipedia.org/wiki/Natural_language_processing">#nlp</a>, <a href="https://en.wikipedia.org/wiki/Natural_language_understanding">#nlu</a>. I'm currently working on <a href="https://www.tagtog.net">tagtog</a>. I'm also happy to help you with <a href="mailto:consult@juanmi.rocks">short-term consultant projects</a>. Let's connect:</p>
 
             <ul className="icons">
+              <li><a href="https://medium.com/@juanmirocks" className="fa-medium">Medium</a></li>
+              <li><a href="https://twitter.com/juanmirocks" className="fa-twitter">Twitter</a></li>
               <li><a href="https://github.com/juanmirocks" className="fa-github">GitHub</a></li>
-              <li><a href="https://stackoverflow.com/users/story/341320" className="fa-stack-overflow">StackOverflow</a></li>
               <li><a href="https://www.linkedin.com/in/juanmirocks" className="fa-linkedin">LinkedIn</a></li>
+              <li><a href="https://stackoverflow.com/users/story/341320" className="fa-stack-overflow">StackOverflow</a></li>
               <li><a href="mailto:consult@juanmi.rocks" className="fa-envelope-o">E-Mail</a></li>
               {/* ResearchGate
               Academia
               Angel.co
-              Medium
               Tumblr
               Wordpress
               About.me */}
@@ -33,7 +34,6 @@ class App extends Component {
             <ul className="icons">
               <li><a href="https://www.instagram.com/juanmirocks" className="fa-instagram">Instagram</a></li>
               <li><a href="https://www.youtube.com/channel/UCXEObTEkoKT2kRxl5FLx86Q" className="fa-youtube">YouTube</a></li>
-              <li><a href="https://twitter.com/juanmirocks" className="fa-twitter">Twitter</a></li>
               <li><a href="https://www.goodreads.com/juanmirocks" className="fa-book">Goodreads</a></li>
               {/* Facebook
               Snapchat
