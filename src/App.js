@@ -13,13 +13,13 @@ class App extends Component {
             <span className="avatar"><img src={profile} alt="juanmirocks profile" /></span>
             <h1>Sup, I'm Juanmi</h1>
 
-            <p>I'm a data scientist by profession, all text mining things, <a href="https://en.wikipedia.org/wiki/Natural_language_processing">#nlp</a>, <a href="https://en.wikipedia.org/wiki/Natural_language_understanding">#nlu</a>. I'm currently working on <a href="https://www.tagtog.net">tagtog</a>. I'm also happy to help you with <a href="mailto:consult@juanmi.rocks">short-term consultant projects</a>. Let's connect:</p>
+            <p>Co-founder at <a href="https://www.tagtog.net">🍃tagtog.net</a>, a text annotation tool to generate training data for <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">#AI</a>. We apply <a href="https://en.wikipedia.org/wiki/Natural_language_processing">NLP</a>/<a href="https://en.wikipedia.org/wiki/Natural_language_understanding">NLU</a> techniques so that humans & machines can collaborate with each other. I'm also happy to help you with <a href="mailto:consult@juanmi.rocks">short-term consultant projects</a>. Let's connect:</p>
 
             <ul className="icons">
-              <li><a href="https://medium.com/@juanmirocks" className="fa-medium">Medium</a></li>
-              <li><a href="https://twitter.com/juanmirocks" className="fa-twitter">Twitter</a></li>
-              <li><a href="https://github.com/juanmirocks" className="fa-github">GitHub</a></li>
               <li><a href="https://www.linkedin.com/in/juanmirocks" className="fa-linkedin">LinkedIn</a></li>
+              <li><a href="https://twitter.com/juanmirocks" className="fa-twitter">Twitter</a></li>
+              <li><a href="https://medium.com/@juanmirocks" className="fa-medium">Medium</a></li>
+              <li><a href="https://github.com/juanmirocks" className="fa-github">GitHub</a></li>
               <li><a href="https://stackoverflow.com/users/story/341320" className="fa-stack-overflow">StackOverflow</a></li>
               <li><a href="mailto:juanmi@tagtog.net" className="fa-envelope-o">E-Mail</a></li>
               {/* ResearchGate
@@ -31,7 +31,7 @@ class App extends Component {
               About.me */}
             </ul>
 
-            <p>I live my own way. My passion is in connecting people and ideas &mdash; to foster peace, collaboration, and friendship. Here you find the unfiltered side of me:</p>
+            <p>I live my own way. I don’t have all answers yet, but I’m learning and documenting my way to the top. Here you find the unfiltered side of me:</p>
             <ul className="icons">
               <li><a href="https://www.instagram.com/juanmirocks" className="fa-instagram">Instagram</a></li>
               <li><a href="https://www.youtube.com/channel/UCXEObTEkoKT2kRxl5FLx86Q" className="fa-youtube">YouTube</a></li>
@@ -47,7 +47,7 @@ class App extends Component {
 
         <footer id="footer">
           <ul className="copyright">
-            <li><span className="copyleft"/> Juan Miguel Cejuela, aka, <em>@juanmirocks</em></li>
+            <li><span className="copyleft"/> Juan Miguel Cejuela, aka, <a href="https://www.instagram.com/juanmirocks"><em>@juanmirocks</em></a></li>
           </ul>
         </footer>
 
