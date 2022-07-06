@@ -1,4 +1,4 @@
-# Sup, I'm Juanmi --> **http://juanmi.rocks**
+# → **http://juanmi.rocks**
 
 <p align="center">
   <img alt="juanmirocks profile photo" src="./src/images/profile.jpg"/>
