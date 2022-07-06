@@ -1,7 +1,6 @@
 {
   "name": "juanmirocks~website",
-  "version": "1.5.1",
-  "homepage": "https://juanmirocks.github.io/website",
+  "version": "1.5.2",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
