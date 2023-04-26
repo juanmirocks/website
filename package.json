@@ -1,6 +1,6 @@
 {
   "name": "@juanmirocks/website",
-  "version": "1.6.0-wip",
+  "version": "2023.04.26",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
