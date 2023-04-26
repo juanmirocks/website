@@ -854,16 +854,3 @@ body.is-loading #main {
   }
 
 }
-
-body.is-ie #wrapper {
-  height: 100%;
-}
-
-.copyleft {
-  display: inline-block;
-  transform: rotate(180deg);
-}
-
-.copyleft::after {
-  content: "\00a9";
-}
