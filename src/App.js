@@ -12,7 +12,7 @@ export default function App() {
           <span className="avatar"><img src={profile} alt="juanmirocks profile" /></span>
           <h1>Dr. Juan Miguel Cejuela</h1>
 
-          <p>AI & full-stack senior engineer - security architect - consultant<br />I'm happy to support you with <a href="mailto:preload-dry-0w+juanmirocks@icloud.com">short-term projects</a>.<br />Let's connect:</p>
+          <p>AI &amp; software engineer - security architect<br />I'm happy to support you with <a href="mailto:preload-dry-0w+juanmirocks@icloud.com">short-term consulting projects</a>.<br />Let's connect:</p>
 
           <ul className="icons">
             <li><a href="https://stackoverflow.com/users/341320/juanmirocks" className="fa-stack-overflow">StackOverflow</a></li>
